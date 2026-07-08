@@ -28,20 +28,6 @@ This project demonstrates the practical application of computer vision and machi
 - CSV
 - VS Code / Jupyter Notebook
 
-## 📂 Project Structure
-
-```
-Face-Recognition-Attendance-System/
-│
-├── Images/
-│   ├── person1.jpg
-│   ├── person2.jpg
-│
-├── Attendance.csv
-├── main.py
-├── requirements.txt
-└── README.md
-```
 
 ## ⚙️ Installation
 
